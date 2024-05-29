@@ -1,5 +1,5 @@
  # :smile_cat: Hello! Welcome to my page.
-<p>I'm Luis, and I enjoy creating modern and functional designs that improve the user experience.</p>
+<p>I enjoy creating modern and functional designs that improve the user experience.</p>
 
 ## Technologies :computer:
 
