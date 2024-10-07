@@ -1,4 +1,4 @@
- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monocraft&pause=1000&color=09FFDA&repeat=false&width=435&lines=%F0%9F%98%B8+Hello!+Welcome+to+my+page.)](https://git.io/typing-svg)
+ # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monocraft&size=18&pause=1000&color=09FFDA&repeat=false&width=435&lines=%F0%9F%98%B8+Hello!+Welcome+to+my+page.)](https://git.io/typing-svg)
 <p>I enjoy creating modern and functional designs that improve the user experience.</p>
 
 ## Technologies :computer:
