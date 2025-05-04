@@ -1,6 +1,6 @@
 <h1><b>Hi, I'm Luis Morgado<b/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
- I am a programmer (trainee) passionate about constant practice. I love drawing and learning other languages while developing my skills.
+ Programmer (trainee) passionate about constant practice. I love drawing and learning other languages while developing my skills.
 
  - 🌱 Actualmente estoy aprendiendo...
    -  Astro
