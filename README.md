@@ -1,12 +1,27 @@
- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monocraft&pause=1000&color=09FFDA&width=435&lines=%F0%9F%98%B8+Hello!+Welcome+to+my+page.)](https://git.io/typing-svg)
-<p>I enjoy creating modern and functional designs that improve the user experience.</p>
+<h1><b>Hi, I'm Luis Morgado<b/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Technologies :computer:
+ I am a programmer (trainee) passionate about constant practice. I love drawing and learning other languages while developing my skills.
+
+ - 🌱 Actualmente estoy aprendiendo...
+   -  Astro
+   -  React
+
+# My Skills include
+
+<h3>Languages</h3>
  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+
+<h3>Frameworks</h3>
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<h3>Other tools and technologies</h3>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
