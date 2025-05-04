@@ -2,7 +2,7 @@
 
  Programmer (trainee) passionate about constant practice. I love drawing and learning other languages while developing my skills.
 
- - 🌱 Actualmente estoy aprendiendo...
+ - 🌱 I’m currently learning..
    -  Astro
    -  React
 
