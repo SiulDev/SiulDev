@@ -3,8 +3,8 @@
  Programmer (trainee) passionate about constant practice. I love drawing and learning other languages while developing my skills.
 
  - 🌱 I’m currently learning..
-   -  Astro
    -  React
+   -  Next.js
 
 # My Skills include
 
