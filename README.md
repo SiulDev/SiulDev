@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Luis Morgado
 
-🎯 Not only code, build solutions | Web developer in training with Full Stack approach
+🎯 Not only code, build solutions | Web developer in training with Full Stack approach    
 💻 Focused on building real projects and embracing new challenges  
 🌍 Open to remote opportunities in LATAM, Europe, or North America
 
