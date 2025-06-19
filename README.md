@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Luis Morgado
 
-🎯 Web developer in training | Aiming for a position as a Frontend or Fullstack Jr  
+🎯 Not only code, build solutions | Web developer in training with Full Stack approach
 💻 Focused on building real projects and embracing new challenges  
 🌍 Open to remote opportunities in LATAM, Europe, or North America
 
