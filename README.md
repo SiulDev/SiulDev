@@ -1,27 +1,38 @@
-<h1><b>Hi, I'm Luis Morgado<b/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 ¡Hola! Soy Luis Morgado
 
- Programmer (trainee) passionate about constant practice. I love drawing and learning other languages while developing my skills.
+🎯 Desarrollador web en formación | Apuntando a un puesto como Frontend o Fullstack Jr.     
+💻 Enfocado en crear proyectos reales y afrontar nuevos desafios.  
+🌍 Buscando oportunidades remotas en LATAM, Europa o América.
 
- - 🌱 I’m currently learning..
-   -  React
-   -  Next.js
+---
 
-# My Skills include
+## 🚀 Stack actual
 
-<h3>Languages</h3>
- 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Estoy en constante mejora aprendiendo más con React, Node.js y Express. Siempre aprendiendo 💪
 
+---
 
+## 📚 Actualmente trabajando en...
+  
+- Proyectos reales para demostrar mis habilidades  
+- Construyendo una app dinamica con mi stack Front-end
 
-<h3>Frameworks</h3>
+---
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 📫 Contacto
 
-<h3>Other tools and technologies</h3>
+- 📧 **Email:** *siuldesing@gmail.com*
+- 🌐 **LinkedIn:** **
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+> *"El camino del desarrollador no es rápido, pero sí constante."*
+
+Gracias por visitar mi perfil ✨
