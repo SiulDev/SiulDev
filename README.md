@@ -28,13 +28,6 @@ I'm constantly improving and learning more about React, Node.js and Express 💪
 
 ---
 
-## 📫 Contact
-
-- 📧 **Email:** siuldesing@gmail.com  
-- 🔗 **LinkedIn:** (see profile links above)
-
----
-
 > *"The path of a developer is not fast, but it is consistent."*
 
 Thanks for stopping by! ✨
