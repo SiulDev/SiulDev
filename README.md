@@ -1,33 +1,32 @@
-# 👋 Hi there! I'm Luis Morgado
+# ¡Hola! Soy Luis Morgado 👋
 
-🎯 Not only code, build solutions | Web developer in training with Full Stack approach    
-💻 Focused on building real projects and embracing new challenges  
-🌍 Open to remote opportunities in LATAM, Europe, or North America
+* 🎯 No solo códifico, construyo soluciones | Desarrollador web en formación con enfoque **Front End**
+* 💻 Enfocado en construir **proyectos reales** y aceptar nuevos desafíos
+* 🌎 Abierto a oportunidades **remotas** en LATAM, Europa o Norteamérica
 
----
+***
 
-## 🚀 Current Tech Stack
+## Stack Tecnológico Actual 🚀
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-I'm constantly improving and learning more about React, Node.js and Express 💪
+Estoy mejorando y aprendiendo constantemente sobre **React** y **Astro**  💪
 
----
+***
 
-## 🧠 Currently working on...
+## Actualmente trabajando en... 🧠
 
-- Real-world projects to showcase my skills  
-- Building a dynamic app with my Frontend stack  
-- Developing my portfolio with Astro
+* Proyectos del **mundo real** para mostrar mis habilidades
+* Construyendo una aplicación dinámica con mi **stack Frontend**
+* Desarrollando mi **portafolio con Astro**
 
----
+***
 
-> *"The path of a developer is not fast, but it is consistent."*
+> "El camino de un desarrollador no es rápido, pero es consistente."
 
-Thanks for stopping by! ✨
+¡Gracias por pasar por aquí! ✨
