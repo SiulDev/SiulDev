@@ -1,5 +1,5 @@
 ### // Hello World! I'm Luis Morgado 👋
-**Computer Science Student | Frontend Developer**
+**Software Development Student | Frontend Developer**
 
 I combine the creativity of **Web Development** with the rigorous logic of **Software Engineering**. While I build modern interfaces with JavaScript, I am deeply focused on understanding memory management and efficiency through **C++**.
 
@@ -16,7 +16,7 @@ My go-to stack for deploying functional web applications.
 
 <br>
 
-**🎓 University Focus (Computer Science)**
+**🎓 University Focus (Software Development)**
 The core engineering concepts I am currently mastering.
 | Core Language | Computer Science Fundamentals |
 | :--- | :--- |
