@@ -22,6 +22,6 @@ The core engineering concepts I am currently mastering.
 | :--- | :--- |
 | ![CPP](https://img.shields.io/badge/C++-Data_Structures-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Algorithms](https://img.shields.io/badge/Algorithms-Logic-black?style=flat&logo=acm&logoColor=white) |
 
-> *Currently studying: Pointers, Memory Management, Linked Lists, and Object-Oriented Programming (OOP) in C++ and JavaScript*
+> *Currently studying: Memory Management, Linked Lists, and Object-Oriented Programming (OOP) in C++ and JavaScript*
 
 ---
