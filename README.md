@@ -17,7 +17,6 @@ Me especializo en construir interfaces web modernas, rápidas y orientadas a res
 
 | Asistentes de Código | Generación y Lógica |
 | :--- | :--- |
-| ![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-111111?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Claude AI](https://img.shields.io/badge/Claude.ai-D97757?style=flat-square) |
 | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
 
 🌱 En Crecimiento (Lo que estoy aprendiendo y explorando hoy)
