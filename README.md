@@ -20,5 +20,3 @@ Me especializo en construir interfaces web modernas, rápidas y orientadas a res
 | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
 
 🌱 En Crecimiento (Lo que estoy aprendiendo y explorando hoy)
-
-> Actualmente dando el salto hacia aplicaciones dinámicas y catálogos interactivos conectando frontends modernos con ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) y ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white).
